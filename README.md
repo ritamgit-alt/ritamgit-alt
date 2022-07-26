@@ -9,11 +9,11 @@
 
 - ✨ I’m looking for help with NVIDIA
 
-- 🔭 I’m currently working on a Motivational Image Bot
+- 🔭 I’m currently working on a something cool.
 
 - 🌱 I’m currently exploring Machine Learning and Computer Vision using Python.
 
-- 🤔 My interest lies in IOS Development AI & ML.
+- 🤔 My interest lies in Open Source Development.
 
 - 👯 I’m looking to collaborate on Outreachy Projects
 
