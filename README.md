@@ -1,5 +1,5 @@
 # Ritam Debnath
-
+### To get some shit done.
 
 ⤷ I’m a self-taught programmer who is enthusiastic about AI & ML and passionate about Software Development. And also loves to contribute in open-source & loves to create real-world projects and create solutions for complex problems.
 
