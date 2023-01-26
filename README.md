@@ -1,7 +1,7 @@
-# Ritam Debnath
-### To get some shit done.
+# 👋 Hi, I Am Ritam 
+### mood on to get some shit done🤘🏻
 
-⤷ I’m a self-taught programmer who is enthusiastic about AI & ML and passionate about Software Development. And also loves to contribute in open-source & loves to create real-world projects and create solutions for complex problems.
+⤷ I’m a self-taught programmer who's enthusiastic about AI & ML and also passionate about Software Development. I love to contribute in open-source projects & create real-world projects for this complex world.😅
 
 
 
