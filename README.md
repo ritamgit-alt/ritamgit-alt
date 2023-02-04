@@ -1,4 +1,4 @@
-# 👋 Hi, I Am Ritam
+# 👋🏻 Hi, I Am Ritam
 ### tryna make some cool stuff in here🤘🏻
 
 
