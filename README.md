@@ -2,7 +2,7 @@
 ### tryna make some cool stuff in here🤘🏻
 
 
-⤷ I'm a digital nomad with a laptop in my backpack and a passion in my little heart. I love to travel to meet people, places, and cultures, and learn while exploring the world in this transient life.
+⤷ I'm a digital nomad with a laptop in my backpack and a passion in my little heart. I love to travel to meet people, places, cultures and learn while exploring the world in this transient life.
 
 
 
